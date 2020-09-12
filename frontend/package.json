@@ -1,0 +1,32 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Food Delivery frontend - react,next.js",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kartmatias/votre-assiette.git"
+  },
+  "keywords": [
+    "food-delivery"
+  ],
+  "author": "Carlos Matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartmatias/votre-assiette/issues"
+  },
+  "homepage": "https://github.com/kartmatias/votre-assiette#readme"
+}
